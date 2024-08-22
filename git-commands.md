@@ -182,3 +182,24 @@ To create a new repository from scratch.
 
 To remove the GitHub repo using the GitHub CLI
 
+**46. gh repo rename**
+
+To rename your repository.
+
+**47. gh repo view**
+
+To view the repository on the Linux terminal.
+
+**48. gh actions**
+
+GitHub CLI command for GitHub Actions CICD workflows.
+
+**49. gh run list**
+
+List down GitHub Actions recent workflow runs.
+
+**50. gh run view**
+
+Run this command to view any workflow run.
+
+Don't worry, we'll be going to learn CICD and GitHub Actions in the next lectures, so make sure to subscribe ;)
