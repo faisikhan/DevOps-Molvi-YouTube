@@ -114,13 +114,21 @@ Get the remote repo URL.
 
 Create a new connection to a remote repo.
 
-29. **git pull origin master**
+**29.** **git pull origin master**
 
-Fetch the specified remote’s copy of current branch and immediately merge it into the local copy.
+Pull the specified remote’s copy of current branch and immediately merge it into the local copy.
 
-30. **git fetch origin master**
+**30. git fetch origin master**
 
+It will just fetch the changes but it will not download those changes on your local repo.
 
+**31.** **git push**
+
+Push the branch to <remote>, along with necessary commits and objects.
+
+**32. git stash**
+
+Git stash temporarily shelves or stashes changes made to your working copy so you can work on something else, and come back and re-apply them later on.
 
 
 
