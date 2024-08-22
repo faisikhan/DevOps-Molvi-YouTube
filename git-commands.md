@@ -72,12 +72,34 @@ Filter the commit history and search by the author name.
 
 **18. git log --grep=commit message**
 
-Search for commits with a commit message
+Search for commits with a commit message.
+
+**19. git log --graph --decorate**
+
+This command draws a text based graph of commits on the left side.
+
+**20. git commit --amend**
+
+Change the last commit message.
+
+**21. git branch -a**
+
+Lists all the branches.
+
+**22. git checkout branch_name**
+
+Switch between the different branches.
+
+**23. git branch yourbranchname**
+
+Create a new branch, replace the branch name.
+
+**24. git checkout -b yournewbranchname**
+
+Create a new branch and point the HEAD to that branch.Replace the branch name.
+
+25. 
 
 
-19. 
-18. 
 
-16. 
 
-15. 
