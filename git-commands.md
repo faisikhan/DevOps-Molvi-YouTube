@@ -126,10 +126,28 @@ It will just fetch the changes but it will not download those changes on your lo
 
 Push the branch to <remote>, along with necessary commits and objects.
 
-**32. git stash**
+**32.** **git push --force**
+
+Forcefully push the changes.
+
+**33.** **git push --all**
+
+Push all of your local branches to the specified remote
+
+**34. git stash**
 
 Git stash temporarily shelves or stashes changes made to your working copy so you can work on something else, and come back and re-apply them later on.
 
+**35. git rebase**
 
+Rebase the current branch onto another branch.
+
+**36. git diff**
+
+Show difference between working directory and last commit.
+
+**37. git diff --cached**
+
+Show difference between staged changes and last commit
 
 
