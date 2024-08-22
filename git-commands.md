@@ -98,7 +98,21 @@ Create a new branch, replace the branch name.
 
 Create a new branch and point the HEAD to that branch.Replace the branch name.
 
-25. 
+**25. git merge my_branch**
+
+Merge the my_branch into the current branch.
+
+**26. git revert commit_id**
+
+Revert the commit
+
+**27. git remote -v**
+
+Get the remote repo URL.
+
+28. 
+
+
 
 
 
