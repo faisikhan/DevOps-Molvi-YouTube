@@ -110,7 +110,7 @@ Revert the commit
 
 Get the remote repo URL.
 
-28. **git remote add origin repo_URL**
+**28.** **git remote add origin repo_URL**
 
 Create a new connection to a remote repo.
 
@@ -150,4 +150,15 @@ Show difference between working directory and last commit.
 
 Show difference between staged changes and last commit
 
+**38. git reset**
+
+Show difference between staged changes and last commit.
+
+**39. git reset --hard**
+
+Reset staging area and working directory to match most recent commit and overwrites all changes in the working director
+
+**40. git reset commit**
+
+Move the current branch tip backward to <commit>.
 
