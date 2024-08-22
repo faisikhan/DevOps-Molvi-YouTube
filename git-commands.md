@@ -42,4 +42,42 @@ The git diff command helps you see, compare, and understand changes in your proj
 
 Define author name to be used for all commits in current repo
 
+**11. git config --global user.name yournamehere**
 
+Define the author name to be used for all commits, change your name accordingly.
+
+**12. git config --global user.email abc@gmail.com**
+
+Define the author email to be used for all commits, change your email accordingly.
+
+**13. git log -<put the log limit>**
+
+For instance, git log -3 will print the first 3 commits.
+
+**14. git log --oneline**
+
+Condense each commit to a single line
+
+**15. git log -p**
+
+Display the full diff of each commit.
+
+**16. git log --stats**
+
+Share the details about the files which were altered and the relative number of lines that were added or deleted from each of them.
+
+**17. git log --author=author_name**
+
+Filter the commit history and search by the author name.
+
+**18. git log --grep=commit message**
+
+Search for commits with a commit message
+
+
+19. 
+18. 
+
+16. 
+
+15. 
