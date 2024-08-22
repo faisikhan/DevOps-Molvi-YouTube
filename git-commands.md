@@ -110,15 +110,15 @@ Revert the commit
 
 Get the remote repo URL.
 
-28. git remote add origin repo_URL
+28. **git remote add origin repo_URL**
 
 Create a new connection to a remote repo.
 
-29. git pull origin master
+29. **git pull origin master**
 
 Fetch the specified remote’s copy of current branch and immediately merge it into the local copy.
 
-30. git fetch origin master
+30. **git fetch origin master**
 
 
 
