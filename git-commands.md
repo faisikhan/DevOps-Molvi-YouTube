@@ -162,3 +162,23 @@ Reset staging area and working directory to match most recent commit and overwri
 
 Move the current branch tip backward to <commit>.
 
+**41. gh** 
+
+Work with GitHub CLI, we need to install it first with "apt install gh"
+
+**42. gh auth login**
+
+Login with token into your GitHub account from Linux VM.
+
+**43. gh auth logout**
+
+Logout from GitHub account on your VM.
+
+**44. gh repo create**
+
+To create a new repository from scratch.
+
+**45. gh repo delete**
+
+To remove the GitHub repo using the GitHub CLI
+
