@@ -12,7 +12,7 @@ All right, let’s update the system in the first place. Get inside the VM and o
 
 ```bash
 sudo apt update
-```bash
+```
 
 It might take a little time to complete the updates.
 
@@ -22,7 +22,7 @@ This step is important according to the security point of view. It is recommende
 
 ```bash
 sudo apt install apt-transport-https ca-certificates curl software-properties-common
-```bash
+```
 
 I have already installed the above tools and software packages on the VM.
 
@@ -33,7 +33,7 @@ Add the key with the following command:
 
 ```bash
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
-```bash
+```
 
 Make sure you copy the whole command correctly. Missing anything won’t get us the key.
 
@@ -42,13 +42,13 @@ We are going to install Docker’s stable release from its official repo. Theref
 
 ```bash
 echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
-```bash
+```
 
 Update the package manager again.
 
 ```bash
 sudo apt update
-```bash
+```
 
 ## **6. Install Docker on Ubuntu 22.04**
 
@@ -56,7 +56,7 @@ Finally, we are ready to install Docker Community Edition [docker-ce] on our Ubu
 
 ```bash
 sudo apt install docker-ce 
-```bash
+```
 
 It’s around 504 MB download. Therefore, depending on the internet connection speed, it may take some time.
 
