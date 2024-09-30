@@ -11,7 +11,7 @@ This Repository Contains the following branches with their respective notes:
 2. git- [Full 3+ Hours Course on YouTube: https://youtu.be/hshvdd4dtqo ]
 3. GCP- Google Cloud Platform [In Progress]
 
-## Important Repositories for DevOps Beginners
+## Important Repositories for DevOps Engineers
 
 1. GitHub Actions Short Tutorial for Beginners: https://github.com/faisikhan/githubactions-tutorial
 2. Basic Containerized Node Application Deployment with GitHub Actions: https://github.com/faisikhan/sharksnode
