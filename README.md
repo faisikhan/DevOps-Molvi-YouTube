@@ -5,9 +5,9 @@ YouTube Link: https://www.youtube.com/@DevOpsMolvi
 
 Make sure to subscribe :)
 
-## Important Repositories
+## Important Repositories for DevOps Beginners
 
-GitHub Actions Short Tutorial for Beginners: https://github.com/faisikhan/githubactions-tutorial
-Basic Containerized Node Application Deployment with GitHub Actions: https://github.com/faisikhan/sharksnode
-LEMP on Docker-Compose: https://github.com/faisikhan/lemp
+1. GitHub Actions Short Tutorial for Beginners: https://github.com/faisikhan/githubactions-tutorial
+2. Basic Containerized Node Application Deployment with GitHub Actions: https://github.com/faisikhan/sharksnode
+3. LEMP on Docker-Compose: https://github.com/faisikhan/lemp
 
