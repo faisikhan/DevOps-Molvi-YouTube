@@ -7,8 +7,8 @@ Make sure to subscribe :)
 
 This Repository Contains the following branches with their respective notes:
 
-1. docker [Full 6+ Hours Course on YouTube: https://youtu.be/KZvMdsg8KTY ]
-2. git [Full 3+ Hours Course on YouTube: https://youtu.be/hshvdd4dtqo ]
+1. docker- [Full 6+ Hours Course on YouTube: https://youtu.be/KZvMdsg8KTY ]
+2. git- [Full 3+ Hours Course on YouTube: https://youtu.be/hshvdd4dtqo ]
 3. GCP- Google Cloud Platform [In Progress]
 
 ## Important Repositories for DevOps Beginners
