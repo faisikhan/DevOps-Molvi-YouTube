@@ -5,11 +5,11 @@ YouTube Link: https://www.youtube.com/@DevOpsMolvi
 
 I have already created the following Free DevOps Courses on my channel:
 
-🔸 4 Hours of Terraform - https://youtu.be/lWUhTLWMijY
-🔸 2.8 Hours of CICD - https://youtu.be/XpzdE_PJQLE
-🔸 3+ Hours of Git - https://youtu.be/hshvdd4dtqo
-🔸 6+ Hours of Docker - https://youtu.be/KZvMdsg8KTY
-🔸 5+ Hours of Linux - https://youtu.be/McqQ5n0FyjM
+1. 🔸 4 Hours of Terraform - https://youtu.be/lWUhTLWMijY
+2. 🔸 2.8 Hours of CICD - https://youtu.be/XpzdE_PJQLE
+3. 🔸 3+ Hours of Git - https://youtu.be/hshvdd4dtqo
+4. 🔸 6+ Hours of Docker - https://youtu.be/KZvMdsg8KTY
+5. 🔸 5+ Hours of Linux - https://youtu.be/McqQ5n0FyjM
 
 Kubernetes is in progress...
 
