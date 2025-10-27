@@ -136,7 +136,7 @@ Push all of your local branches to the specified remote
 
 **34. git stash**
 
-Git stash temporarily shelves or stashes changes made to your working copy so you can work on something else, and come back and re-apply them later on.
+Git stash temporarily shelves or stashes changes made to your working copy so you can work on something else, and come back and re-apply them later on. Run git stash pop to continue.
 
 **35. git rebase**
 
