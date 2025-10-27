@@ -50,7 +50,7 @@ Define the author name to be used for all commits, change your name accordingly.
 
 Define the author email to be used for all commits, change your email accordingly.
 
-**13. git log -<put the log limit>**
+**13. git log -n**
 
 For instance, git log -3 will print the first 3 commits.
 
