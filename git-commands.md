@@ -62,7 +62,7 @@ Condense each commit to a single line
 
 Display the full diff of each commit.
 
-**16. git log --stats**
+**16. git log --stat**
 
 Share the details about the files which were altered and the relative number of lines that were added or deleted from each of them.
 
