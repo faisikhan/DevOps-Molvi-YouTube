@@ -78,7 +78,7 @@ Search for commits with a commit message.
 
 This command draws a text based graph of commits on the left side.
 
-**20. git commit --amend**
+**20. git commit --amend -m "new commit message"**
 
 Change the last commit message.
 
