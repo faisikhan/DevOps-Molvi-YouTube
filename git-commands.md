@@ -70,7 +70,7 @@ Share the details about the files which were altered and the relative number of 
 
 Filter the commit history and search by the author name.
 
-**18. git log --grep=commit message**
+**18. git log --grep="commit message"**
 
 Search for commits with a commit message.
 
